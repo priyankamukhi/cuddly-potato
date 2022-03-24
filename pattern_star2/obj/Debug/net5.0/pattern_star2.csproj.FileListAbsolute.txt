@@ -1,0 +1,16 @@
+C:\Users\priyanka.mukhi\projects\pattern_star2\pattern_star2\bin\Debug\net5.0\pattern_star2.exe
+C:\Users\priyanka.mukhi\projects\pattern_star2\pattern_star2\bin\Debug\net5.0\pattern_star2.deps.json
+C:\Users\priyanka.mukhi\projects\pattern_star2\pattern_star2\bin\Debug\net5.0\pattern_star2.runtimeconfig.json
+C:\Users\priyanka.mukhi\projects\pattern_star2\pattern_star2\bin\Debug\net5.0\pattern_star2.runtimeconfig.dev.json
+C:\Users\priyanka.mukhi\projects\pattern_star2\pattern_star2\bin\Debug\net5.0\pattern_star2.dll
+C:\Users\priyanka.mukhi\projects\pattern_star2\pattern_star2\bin\Debug\net5.0\ref\pattern_star2.dll
+C:\Users\priyanka.mukhi\projects\pattern_star2\pattern_star2\bin\Debug\net5.0\pattern_star2.pdb
+C:\Users\priyanka.mukhi\projects\pattern_star2\pattern_star2\obj\Debug\net5.0\pattern_star2.csproj.AssemblyReference.cache
+C:\Users\priyanka.mukhi\projects\pattern_star2\pattern_star2\obj\Debug\net5.0\pattern_star2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priyanka.mukhi\projects\pattern_star2\pattern_star2\obj\Debug\net5.0\pattern_star2.AssemblyInfoInputs.cache
+C:\Users\priyanka.mukhi\projects\pattern_star2\pattern_star2\obj\Debug\net5.0\pattern_star2.AssemblyInfo.cs
+C:\Users\priyanka.mukhi\projects\pattern_star2\pattern_star2\obj\Debug\net5.0\pattern_star2.csproj.CoreCompileInputs.cache
+C:\Users\priyanka.mukhi\projects\pattern_star2\pattern_star2\obj\Debug\net5.0\pattern_star2.dll
+C:\Users\priyanka.mukhi\projects\pattern_star2\pattern_star2\obj\Debug\net5.0\ref\pattern_star2.dll
+C:\Users\priyanka.mukhi\projects\pattern_star2\pattern_star2\obj\Debug\net5.0\pattern_star2.pdb
+C:\Users\priyanka.mukhi\projects\pattern_star2\pattern_star2\obj\Debug\net5.0\pattern_star2.genruntimeconfig.cache
